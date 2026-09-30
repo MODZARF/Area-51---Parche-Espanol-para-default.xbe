@@ -13,9 +13,9 @@ No necesitas re-empaquetar nada, solo reemplazar el .xbe.
 ### Cómo usarlo
 
 **Opción 1: Usando el script de Python**
-1. Descarga el archivo `a52.py` de este repositorio.
+1. Descarga el archivo `a51.py` de este repositorio.
 2. Pon tu `default.xbe` original en la misma carpeta que `a52.py`.
-3. Ejecuta `a52.py` con Python.
+3. Ejecuta `a51.py` con Python.
 
 **Opción 2: Usando el .exe compilado**
 1. Ve a la pestaña `Releases` de este repositorio.
